@@ -14,7 +14,7 @@ Building a model from a csv file.
   <img src="https://user-images.githubusercontent.com/96240235/170937289-e34e0f64-371e-4bbf-a277-22ab2f0ec672.png" />
 </p>
 
-##### Evaluation
+##### Evaluation of results
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96240235/170937297-bc028340-e629-4fad-aaac-efbdd564b25f.png" />
 </p>
