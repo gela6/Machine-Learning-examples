@@ -26,5 +26,3 @@ Building a model from a csv file.
 
 
 
-
-### Emotion detection example
